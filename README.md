@@ -1,25 +1,25 @@
-to build
+## To build
 
-  javac game.java
+    javac game.java
 
-to run 
+## To run 
 
-  java Main
+    java Main
 
-Output
+## Output
 
-count is  2
-count is now 6
-Mario
-Sonic
-WoW
-Sniper Elite
-CoD
-Forza
----- sorted -----
-Forza 8
-Mario 12
-Sonic 19
-Sniper Elite 28
-CoD 33
-WoW 45
+    count is  2
+    count is now 6
+    Mario
+    Sonic
+    WoW
+    Sniper Elite
+    CoD
+    Forza
+    ---- sorted -----
+    Forza 8
+    Mario 12
+    Sonic 19
+    Sniper Elite 28
+    CoD 33
+    WoW 45
